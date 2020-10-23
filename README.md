@@ -21,7 +21,7 @@ $ P $: $ [3,5] $
 
 <b>Case 2 :</b>
 
-input
+Input
 $ Polygon $ : $ [[-3,2], [-2,-0.8], [0,1.2], [2.2,0], [2,4.5]]$
 $ P $ : $[0,0]$
 <br>Output : False
@@ -41,14 +41,14 @@ Input 2 : coordinated of source of light in 2-D
 
 Example :
 
-<b>Case 1</b>
+<b>Case 1 :</b>
 
 Input -
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]] $
 $ S $: $ [1,1] $
 <br>Output : 8.0
 
-<b>Case 2</b>
+<b>Case 2 :</b>
 
 input
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $
