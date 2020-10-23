@@ -37,7 +37,7 @@ Description : Given a coordinates of buildings and source point 'p' of sunlight.
 Write a function that takes two arguments as a input and return length of the building exposed to sunlight
 Input 1 : $(n42)$ array consisting the coordinates of n buildings in 2-D, where n is number of buildings
 Input 2 : coordinated of source of light in 2-D
-Output : (float) Length of surface exposed to sunlight
+<br>Output : (float) Length of surface exposed to sunlight
 
 Example :
 
@@ -46,11 +46,11 @@ Example :
 Input -
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]] $
 $ S $: $ [1,1] $
-Output : 8.0
+<br>Output : 8.0
 
 <b>Case 2</b>
 
 input
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $
 $ S $: $ [-3.5,1] $
-Output : to be calculated
+<br>Output : to be calculated
