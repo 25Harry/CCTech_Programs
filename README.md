@@ -17,14 +17,14 @@ Example :
 Input -
 <ul><li>$ Polygon$ : $ [[1,0], [8,3], [8,8], [1,5]] $</li><br>
 <li>$ P $: $ [3,5] $</li></ul>
-<br>Output : True
+<br>Output : True<br>
 
 <b>Case 2 :</b>
 
 Input
 <ul><li>$ Polygon $ : $ [[-3,2], [-2,-0.8], [0,1.2], [2.2,0], [2,4.5]]$</li><br>
 <li>$ P $ : $[0,0]$</li></ul>
-<br>Output : False
+<br>Output : False<br>
 
 
 
@@ -46,11 +46,11 @@ Example :
 Input -
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]] $
 $ S $: $ [1,1] $
-<br>Output : 8.0
+<br>Output : 8.0<br>
 
 <b>Case 2 :</b>
 
 Input
-$ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $
-$ S $: $ [-3.5,1] $
+<ul><li>$ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $</li>
+	<li>$ S $: $ [-3.5,1] $</li></ul>
 <br>Output : To be calculated
