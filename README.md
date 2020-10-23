@@ -1,6 +1,6 @@
 # CCTech June 2020 Software Developer Hiring Challenge
 
-<b>Program 1 : Check if the given point lies inside or outside a polygon?</b>
+<b>Program 1 : Check if the given point lies inside or outside a polygon?</b><br>
 Description : Given a polygon and a point 'p', find if 'p' lies inside the polygon or not. The points lying on the border are considered inside.
 
 	
@@ -28,7 +28,7 @@ Output : False
 
 
 
-<b>Program 2 : Calculate the surface of the building exposed to sunlight?</b>
+<b>Program 2 : Calculate the surface of the building exposed to sunlight?</b><br>
 Description : Given a coordinates of buildings and source point 'p' of sunlight. Calculate the length of building exposed to sunlight having the source at point p.
 
 
