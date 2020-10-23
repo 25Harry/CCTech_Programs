@@ -11,14 +11,14 @@ Input 2 : coordinated of points in 2-D
 Output : True if point 'p' lies inside the polygon else False
 
 Example :
-
+<br>
 <b>Case 1 :</b>
 
 Input -
 <ul><li>$ Polygon$ : $ [[1,0], [8,3], [8,8], [1,5]] $</li><br>
 <li>$ P $: $ [3,5] $</li></ul>
 <br>Output : True<br>
-
+<br>
 <b>Case 2 :</b>
 
 Input
@@ -40,14 +40,14 @@ Input 2 : coordinated of source of light in 2-D
 <br>Output : (float) Length of surface exposed to sunlight
 
 Example :
-
+<br>
 <b>Case 1 :</b>
 
 Input -
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]] $
 $ S $: $ [1,1] $
 <br>Output : 8.0<br>
-
+<br>
 <b>Case 2 :</b>
 
 Input
