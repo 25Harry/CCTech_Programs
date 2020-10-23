@@ -50,7 +50,7 @@ $ S $: $ [1,1] $
 
 <b>Case 2 :</b>
 
-input
+Input
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $
 $ S $: $ [-3.5,1] $
-<br>Output : to be calculated
+<br>Output : To be calculated
