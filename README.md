@@ -1,6 +1,6 @@
 # CCTech June 2020 Software Developer Hiring Challenge
 
-Program 1 : Check if the given point lies inside or outside a polygon?
+<b>Program 1 : Check if the given point lies inside or outside a polygon?</b>
 Description : Given a polygon and a point 'p', find if 'p' lies inside the polygon or not. The points lying on the border are considered inside.
 
 	
@@ -12,14 +12,14 @@ Output : True if point 'p' lies inside the polygon else False
 
 Example :
 
-Case 1 :
+<b>Case 1 :</b>
 
 Input -
 $ Polygon$ : $ [[1,0], [8,3], [8,8], [1,5]] $
 $ P $: $ [3,5] $
 Output : True
 
-Case 2 :
+<b>Case 2 :</b>
 
 input
 $ Polygon $ : $ [[-3,2], [-2,-0.8], [0,1.2], [2.2,0], [2,4.5]]$
@@ -28,7 +28,7 @@ Output : False
 
 
 
-Question 2 : Calculate the surface of the building exposed to sunlight?
+<b>Program 2 : Calculate the surface of the building exposed to sunlight?</b>
 Description : Given a coordinates of buildings and source point 'p' of sunlight. Calculate the length of building exposed to sunlight having the source at point p.
 
 
@@ -41,14 +41,14 @@ Output : (float) Length of surface exposed to sunlight
 
 Example :
 
-Case 1
+<b>Case 1</b>
 
 Input -
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]]] $
 $ S $: $ [1,1] $
 Output : 8.0
 
-Case 1
+<b>Case 2</b>
 
 input
 $ Buildings Coordinates$ : $ [[[4,0],[4,-5],[7,-5],[7,0]], [[0.4,-2],[0.4,-5],[2.5,-5],[2.5,-2]]] $
